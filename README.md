@@ -2,6 +2,6 @@
 
 - [x] Markup
 - [x] Styles
-- [ ] Generate board
+- [x] Generate board
 - [ ] Turn
 - [ ] Win logic
