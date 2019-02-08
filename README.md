@@ -1,6 +1,6 @@
 ## TODO
 
-- [ ] Markup
+- [x] Markup
 - [ ] Styles
 - [ ] Generate board
 - [ ] Turn
