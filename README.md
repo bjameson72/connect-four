@@ -1,7 +1,7 @@
 ## TODO
 
 - [x] Markup
-- [ ] Styles
-- [ ] Generate board
+- [x] Styles
+- [x] Generate board
 - [ ] Turn
 - [ ] Win logic
