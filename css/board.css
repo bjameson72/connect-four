@@ -32,3 +32,10 @@
 .slot input[type="checkbox"] {
   display: none;
 }
+
+#reset-button {
+  height: 50px;
+  width: 100px;
+  position: absolute;
+  transform: translateX(15vw) translateY(4vh);
+}
