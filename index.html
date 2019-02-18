@@ -1,19 +1,30 @@
 <!DOCTYPE html>
 <html>
   <head>
+    <title>Connect Four</title>
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <title>Page Title</title>
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <link rel="stylesheet" type="text/css" media="screen" href="css/main.css" />
+    <link
+      rel="icon shortcut"
+      href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQX1XyysXvhuNKtm84ige1bDW6Z-kL5d6tDcNQK0JLmE3hpPLfGdQ"
+    />
+    <script src="js/main.js" type="module"></script>
   </head>
+
   <body>
     <h1>Connect Four</h1>
+    <section>
+      <button type="button" id="reset-button" onclick="initialize()">
+        Reset Board
+      </button>
+    </section>
+
     <h2 id="turn-indicator">
-      <span class="player1" id="player-indicator">Player 1</span> turn
+      <span class="player1" id="player-indicator">Player 1</span> Turn
     </h2>
     <div id="board"></div>
-
-    <script src="main.js"></script>
   </body>
 </html>
