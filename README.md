@@ -3,9 +3,9 @@
 - [x] Markup
 - [x] Styles
 - [x] Generate board
-- [ ] Game rules
-  - [ ] Selecting input changes color
-  - [ ] Change who's turn it is
-  - [ ] Change who's turn is displayed
-  - [ ] Disable invalid slots
-- [ ] Win logic
+- [x] Game rules
+  - [x] Selecting input changes color
+  - [x] Change who's turn it is
+  - [x] Change who's turn is displayed
+  - [x] Disable invalid slots
+- [x] Win logic
